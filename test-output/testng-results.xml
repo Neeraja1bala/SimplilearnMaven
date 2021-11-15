@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5898" started-at="2021-11-15T05:33:04Z" finished-at="2021-11-15T05:33:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5898" started-at="2021-11-15T05:33:04Z" finished-at="2021-11-15T05:33:10Z">
+      <class name="test.LoginTest">
+        <test-method status="PASS" signature="ReportSetup()[pri:0, instance:test.LoginTest@a74868d]" name="ReportSetup" is-config="true" duration-ms="666" started-at="2021-11-15T05:33:04Z" finished-at="2021-11-15T05:33:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportSetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.LoginTest@a74868d]" name="setup" is-config="true" duration-ms="2696" started-at="2021-11-15T05:33:04Z" finished-at="2021-11-15T05:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ExcelTest()[pri:0, instance:test.LoginTest@a74868d]" name="ExcelTest" duration-ms="2210" started-at="2021-11-15T05:33:07Z" finished-at="2021-11-15T05:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.LoginTest@a74868d]" name="teardown" is-config="true" duration-ms="69" started-at="2021-11-15T05:33:09Z" finished-at="2021-11-15T05:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="ReportTearDowm()[pri:0, instance:test.LoginTest@a74868d]" name="ReportTearDowm" is-config="true" duration-ms="244" started-at="2021-11-15T05:33:09Z" finished-at="2021-11-15T05:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportTearDowm -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
